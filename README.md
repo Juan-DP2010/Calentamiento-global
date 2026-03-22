@@ -49,4 +49,40 @@ Estas causas se dividen en 2:
 - Migracioens inusuales
 - Conflictos por recursos
 
-![derretimiento_de_glaciares_y_polos](IMAGENES/efecto_invernadero.jpg)
+![derretimiento_de_glaciares_y_polos](IMG_CONSECUENCIAS/derretimiento_de_glaciares_y_polos.jpg)
+
+
+![inundacion](IMG_CONSECUENCIAS/inundacion.jpg)
+
+
+![huracan](IMG_CONSECUENCIAS/huracan.jpg)
+
+
+# 4: ¿Qué podemos hacer para deterne el calentamiento global?
+## Reducir las causas:
+- Uso de energías renovables
+- Reducir emisiones de CO2
+- Reforestación
+- Transporte sostenible
+
+## Adaptación:
+- Construcciones resistentes al clima
+- Mejor gestión del agua
+- Nuevas técnicas agricolas
+
+## Globales:
+- Acuerdos Internacionales
+- Educación ambiental
+- Cambios enm hábito de consumo
+
+
+
+# Conclusiones:
+El calentamiento global es un problema causado principalmente por el ser humano que afecta al clima, los ecosistemas y la sociedad. Aunque sus efectos son graves, existen soluciones si se aplican de forma global y urgente.
+
+# Preguntas para debate:
+## 1. Es posible crecer económicamente sin contaminar?
+## 2. ¿Quién tiene mayor responsabilidad: países desarrollados o en desarrollo?
+## 3. ¿Las soluciones actuales son suficientes o demasiado lentas?
+## 4. ¿La tecnología podrá revertir el daño ambiental?
+## 5. ¿Es más importante prevenir o adaptarse?
