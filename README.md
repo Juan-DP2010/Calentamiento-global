@@ -1,5 +1,5 @@
 # Calentamiento global
-En este proyecto es un desarrollo de una pág web que busca concientizar mediante la siguiente información: (Calentamiento global): Concepto, causas, consecuencias, soluciones y preguntas sueltas para debates.
+Este proyecto es un desarrollo de una pág web que busca concientizar mediante la siguiente información: (Calentamiento global): Concepto, causas, consecuencias, soluciones y preguntas sueltas para debates.
 
 # 1: ¿Qué es el calentamiento global?
 Es el aumento progresivo de la temperatura promedio de la Tierra gracias a gases de efecto invernadero en la atmósfera.
