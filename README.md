@@ -49,6 +49,4 @@ Estas causas se dividen en 2:
 - Migracioens inusuales
 - Conflictos por recursos
 
-
-
-![efecto_invernadero](IMAGENES/efecto_invernadero.jpg)
+![derretimiento_de_glaciares_y_polos](IMAGENES/efecto_invernadero.jpg)
