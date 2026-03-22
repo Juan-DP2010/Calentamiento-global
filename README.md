@@ -15,8 +15,9 @@ El efecto invernadero es natural y necesario, el problema es su aceleración por
 ![tipos_de_gases_de_e_invernadero](IMAGENES/tipos_de_gases_de_e_invernadero.jpg)
 
 
+
 # 2: ¿Qué causas generan el aceleramiento del calentamiento global?
-Estas causas de dividen en 2:
+Estas causas se dividen en 2:
 
 ## 1) Humanas (Principales):
 - Quema de combustibles fósiles
@@ -46,4 +47,8 @@ Estas causas de dividen en 2:
 ## Sociales y Económicas:
 - Falta de agua y comida
 - Migracioens inusuales
-- Conflictos por recursos 
+- Conflictos por recursos
+
+
+
+![efecto_invernadero](IMAGENES/efecto_invernadero.jpg)
