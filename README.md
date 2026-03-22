@@ -18,5 +18,32 @@ El efecto invernadero es natural y necesario, el problema es su aceleración por
 # 2: ¿Qué causas generan el aceleramiento del calentamiento global?
 Estas causas de dividen en 2:
 
-## Humanas:
-Son las acciones 
+## 1) Humanas (Principales):
+- Quema de combustibles fósiles
+- Deforestación
+- Agricultura y ganadería
+- Industria y consumo
+
+## 2) Naturales (Secundarias):
+- Erupciones volcánicas
+- Cambios en la radiación solar
+
+# 3: Consecuencias del calentamiento global
+## Ambientales:
+- Aumento de la temperatura global
+- Derretimiento de glaciares / polos
+- Subida del nivel del mar
+
+## Fenómenos extremos:
+- Huracanes
+- Sequías prolongadas
+- Inundaciones intensas
+
+## Biodiversidad:
+- Extinción de especies
+- Pérdida de ecosistemas
+
+## Sociales y Económicas:
+- Falta de agua y comida
+- Migracioens inusuales
+- Conflictos por recursos 
